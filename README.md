@@ -1,5 +1,5 @@
 # EdmCrack600
-The dataset consists of 600 images taken from roads of Edmonton, Canada. They are all annotated at pixel level for crack detection.
+The dataset consists of 600 images of pavement cracks taken from roads in Edmonton, Canada. They are all annotated at pixel level to test automatic crack detection algorithms.
 
 The link to down load the dataset: https://drive.google.com/file/d/1TJ10eoUmd3N2SBBalzj3On9J3S4xJu6M/view?usp=sharing
 
